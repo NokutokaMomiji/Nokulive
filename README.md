@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./images/NokuliveLogo.png" align="center" width="50%">
+    <img src="./images/NokuliveLogo.png" align="center" width="45%">
 </p>
 <h1 align="center">
 Nokulive
@@ -20,7 +20,11 @@ Tired of Twitch not notifying you about your favorite streamer going live? Ever 
 ## Showcase
 
 <p align="center">
-    <img src="./images/nokulive01.png" align="center" width="50%">
-    <img src="./images/nokulive02.png" align="center" width="50%">
-    <img src="./images/nokulive03.png" align="center" width="50%">
+    <img src="./images/nokulive01.png" align="center">
+    <br>
+    <br>
+    <img src="./images/nokulive02.png" align="center">
+    <br>
+    <br>
+    <img src="./images/nokulive03.png" align="center">
 </p>
